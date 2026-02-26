@@ -76,9 +76,17 @@
 ### C4 — Triângulo: saída
 
 - **Entrada / frenagem:**
+    1. vir pela direita, mas se subir na zebra
+    2. ainda estou buscando uma referência para a frenagem
+    3. frenagem curta seguida de aceleração total
+    TESTE dar um blip no freio e acelerar tudo, simlar a mesma curva em Betim
 - **Apex:**
+    1. já ví vídeos de pessoas rodando ao pegar a zebra e vi vídeos de pessoas pegando ela direitinho
+    TESTE (a) fazer sem subir na zebra (b) fazer atropelando a zebra
 - **Saída:**
+    1. deixar o kart espalhar até a outra zebra
 - **Notas:**
+    Preciso encontrar uma referência
 
 ### C5 — Ligação / esse central
 
