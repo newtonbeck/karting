@@ -3,6 +3,7 @@
 **Kartódromo:** RBC
 **Traçado:** 1 anti-horário
 **Categoria:** Super Kart
+**Onboard (corrida 3):** https://www.youtube.com/watch?v=S6xhsd_4fUE
 
 > Retorno ao RBC após meses de ausência. Kart visivelmente mais forte que o de Betim e freio hidráulico — sensações diferentes desde o início. Corrida 1 foi de reconhecimento. Descansou na corrida 2 e aproveitou para conversar com Thiagão Tsunami e André LaRocca. Na corrida 3, com parte da informação processada, encontrou o ritmo e chegou a consistência boa no final.
 
