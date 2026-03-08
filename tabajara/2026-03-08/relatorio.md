@@ -3,6 +3,7 @@
 **Kartódromo:** RBC
 **Traçado:** 1 anti-horário
 **Categoria:** Super Kart
+**Onboard (corrida 2):** https://www.youtube.com/watch?v=2pluwEwMNyc
 
 > Primeira sessão com aplicação direta dos feedbacks do Lucas: ajustes de frenagem nas curvas 1, 2, 4 e 8, e uso da zebra interna na curva 10. Na corrida 1, melhora progressiva enquanto os ajustes eram absorvidos — as últimas 5 voltas foram as melhores. Na corrida 2, sem descanso ou debrief, o ritmo chegou mais rápido e a melhor volta foi melhor: 1:10.364.
 
